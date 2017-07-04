@@ -1,10 +1,7 @@
 # JavaScript-Development-Environment
 
-### Start
+### Start with Security scan using Node Security(nsp)
 `npm start`
 
-### Sharing Work-in-progress using Localtunnel
+### Start with Sharing Work-in-progress using Localtunnel
 `npm run share`
-
-### Security scan using Node Security(nsp)
-`npm run security-check`
