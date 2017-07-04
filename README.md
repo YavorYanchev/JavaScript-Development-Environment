@@ -1,6 +1,10 @@
 # JavaScript-Development-Environment
 
-### Sharing Work-in-progress  
-`npm install -g localtunnel`  
+### Start
+`npm start`
 
-`lt --port 3000`
+### Sharing Work-in-progress using Localtunnel
+`npm run share`
+
+### Security scan using Node Security(nsp)
+`npm run security-check`
